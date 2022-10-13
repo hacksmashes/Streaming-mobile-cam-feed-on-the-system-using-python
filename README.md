@@ -23,4 +23,4 @@ Commands to download modules:
   - pip install imutils
   
 
-For more programs please visit the Instagram page: @python_projects_
+For more programs please visit the Instagram page: https://www.instagram.com/hack_smashes/
